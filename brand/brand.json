@@ -1,0 +1,48 @@
+{
+  "jenama": "Kak Sarah Bawang",
+  "dikemas_kini": "2026-11-22",
+  "sumber": "asyrah91/kaksarahbawang-web — src/styles/global.css",
+  "warna": {
+    "krim": "#fff7e6",
+    "krim_2": "#ffefcf",
+    "emas": "#f4a300",
+    "emas_cerah": "#ffd166",
+    "hitam": "#1d120a",
+    "sokongan": {
+      "pasir": "#e9d9bd",
+      "tanah": "#bfa67c",
+      "kayu": "#4a3620"
+    }
+  },
+  "font": {
+    "tajuk": "Bricolage Grotesque",
+    "tajuk_berat": 800,
+    "tajuk_fail": "fonts/bricolage-800.woff2",
+    "badan": "system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+  },
+  "video_rujukan": [
+    {
+      "nama": "milkshake",
+      "fail": "refs/2026-11-15_kak-sarah/milkshake.mp4",
+      "repo": "asyrah91/video-claude",
+      "kenapa": "Satu gambar produk, teks bergerak, bab warna. Rujukan utama."
+    },
+    {
+      "nama": "coffee",
+      "fail": "refs/2026-11-15_kak-sarah/coffee.mp4",
+      "repo": "asyrah91/video-claude"
+    },
+    {
+      "nama": "poppi",
+      "fail": "refs/2026-11-15_kak-sarah/poppi.mp4",
+      "repo": "asyrah91/video-claude"
+    },
+    {
+      "nama": "typetreats",
+      "fail": "refs/2026-11-15_kak-sarah/typetreats.mp4",
+      "repo": "asyrah91/video-claude"
+    }
+  ],
+  "spesifikasi_rujukan": "refs/2026-11-15_kak-sarah/reference-spec.md",
+  "nota": "Semua nilai di atas diambil terus daripada fail tema laman web. Jangan reka warna baharu."
+}
